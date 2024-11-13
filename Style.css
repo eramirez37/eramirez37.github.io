@@ -4,6 +4,7 @@ body {
 }
 .navbar{
     background-color:#025b76 !important;
+    text-align: right;
 }
 .nav-link, .navbar-brand{
     color: aliceblue !important;
