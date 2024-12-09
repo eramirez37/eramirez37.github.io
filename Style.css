@@ -23,3 +23,16 @@ table, td, th{
 .logo{
     height: 100px;
 }
+.PoemList {
+    display: flex;
+  }
+#poem-list {
+    width: 30%;
+    font-size:x-large;
+  }
+#poem-content {
+    width: 70%;
+  }
+.poem {
+    display: none;
+  }
